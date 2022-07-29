@@ -97,7 +97,7 @@ const Header = () => {
                       default: "bounce",
                     },
                     random: false,
-                    speed: 8,
+                    speed: 10,
                     straight: false,
                   },
                   number: {
@@ -105,7 +105,7 @@ const Header = () => {
                       enable: true,
                       area: 800,
                     },
-                    value: 100,
+                    value: 90,
                   },
                   opacity: {
                     value: 0.5,
@@ -136,7 +136,7 @@ const Header = () => {
 
                   strings: [
                     "Software Engineer💻",
-                    "Web Developer👨‍💻",
+                    "Web Developer👨",
                     "Content Creator🎥",
                   ],
                   autoStart: true,

@@ -29,9 +29,8 @@ function App() {
         <Navbar />
       </nav>
 
-      <header><Header /></header>
       <Routes>
-       
+        <Route exact path="/" element={<Header />} />
         <Route exact path="/" element={<About />} />
         <Route exact path="/" element={<Experience />} />
         <Route exact path="/" element={<Education />} />
@@ -47,7 +46,9 @@ function App() {
         <Route exact path="/editProject/:id" element={<EditProject />} />
       </Routes>
 
-      <footer><Footer/></footer>
+      <footer>
+        <Footer />
+      </footer>
     </div>
   );
 }

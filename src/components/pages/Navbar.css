@@ -80,6 +80,7 @@ nav {
   z-index: 10;
   opacity: 1;
   transition: transform 0.4s ease-in-out;
+  font-family: 'Open Sans Hebrew', sans-serif;
 }
 
 .new-links {

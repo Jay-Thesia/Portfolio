@@ -12,7 +12,7 @@
 
 .education-center {
   color: rgb(70, 70, 70);
-  font-family: "Itim", cursive;
+  font-family: "Open Sans Hebrew", sans-serif;
 }
 
 .single-education {
@@ -20,7 +20,8 @@
   font-size: 18px;
   background-color: #5e5a5a;
   color: white;
-  padding: 5px;
+  padding: 10px;
+  line-height: 30px;
   letter-spacing: 0.1rem;
   clip-path: polygon(0 0, 100% 0, 92% 100%, 0% 100%);
 }

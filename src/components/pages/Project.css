@@ -28,12 +28,19 @@
   letter-spacing: 0.01rem;
   font-size: 26px;
   text-decoration: underline dotted;
+  margin-bottom: 6px;
 }
+
 
 .single-project-info p {
   color: #424242;
-  font-family: "Itim", cursive;
+  font-family:'Open Sans Hebrew', sans-serif;
+  display: flex;
   font-size: 18px;
+}
+
+.weblink{
+  color:black;
 }
 
 @media screen and (max-width: 430px) {

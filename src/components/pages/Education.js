@@ -6,7 +6,7 @@ const Education = () => {
     <div>
       <div className="main-container" id="Education">
         <div className="education">
-          <h2 className="title">Education</h2>
+          <h1 className="title">Education</h1>
 
           <div className="education-center">
             {/* single Education */}
@@ -20,14 +20,14 @@ const Education = () => {
             <div className="single-education">
             <p><b>12th HSC(2018-19)</b> </p>
               <p>Shraddha Vidhya Mandir,Ahmedabad</p>
-              <p>PR: 83.4</p>
+              <p>PR: 83.40%</p>
             </div>
 
             {/* single Education */}
             <div className="single-education">
             <p><b>10th SSC(2016-17)</b> </p>
               <p>Shree Narayana Guru Vidhyala,Ahmedabad</p>
-              <p>PR: 96.75</p>
+              <p>PR: 96.75%</p>
             </div>
           </div>
         </div>
