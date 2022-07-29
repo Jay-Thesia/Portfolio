@@ -18,16 +18,16 @@ const Education = () => {
 
             {/* single Education */}
             <div className="single-education">
-            <p><b>Information & Technology(2019-2023)</b> </p>
-              <p>Lukhdhirji Engineering College</p>
-              <p>CGPA: 9.17/10</p>
+            <p><b>12th HSC(2018-19)</b> </p>
+              <p>Shraddha Vidya Mandir,Ahmedabad-15</p>
+              <p>PR: 83.4</p>
             </div>
 
             {/* single Education */}
             <div className="single-education">
-            <p><b>Information & Technology(2019-2023)</b> </p>
-              <p>Lukhdhirji Engineering College</p>
-              <p>CGPA: 9.17/10</p>
+            <p><b>10th SSC(2016-17)</b> </p>
+              <p>Shree Narayana Guru Vidhyala, Ahmedabad-15</p>
+              <p>PR: 96.75</p>
             </div>
           </div>
         </div>
