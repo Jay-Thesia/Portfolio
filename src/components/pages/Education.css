@@ -31,14 +31,14 @@
     flex-wrap: wrap;
     justify-content: space-between;
     margin: 0 auto;
-    max-width: 1020px;
+    max-width: 1024px;
   }
 
   .single-education {
     margin-right: 0;
     padding: 10px;
     clip-path: polygon(0 0, 100% 0, 92% 100%, 0% 100%);
-    padding: 10px;
+    padding: 20px;
     margin-bottom: 20px;
   }
 }
