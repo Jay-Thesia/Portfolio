@@ -3,6 +3,7 @@
   margin: 0 auto;
   box-shadow: 0 0 4px 1px gray;
   margin-bottom: 30px;
+  height: 100%;
 }
 
 .single-project-img img {
@@ -22,6 +23,7 @@
 
 .single-project-info {
   padding: 10px;
+
 }
 
 .single-project-info h3 {
@@ -32,12 +34,18 @@
 }
 
 
-.single-project-info p {
+.single-project-info li {
   color: #424242;
   font-family:'Open Sans Hebrew', sans-serif;
   display: flex;
-  font-size: 18px;
+  font-size: 16px;
+  letter-spacing: 0.02rem;
+  margin-bottom: 10px;
+  line-height: 20px;
 }
+
+
+
 
 .weblink{
   color:black;
