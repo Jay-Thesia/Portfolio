@@ -37,7 +37,7 @@ const Header = () => {
               options={{
                 background: {
                   color: {
-                    value: "#6d6d6d",
+                    value: "#bfbdbd",
                     zIndex: -1,
                   },
                 },

@@ -4,8 +4,8 @@
 }
 
 .single-experience {
-  background-color: #6d6d6d;
-  color: white;
+  background-color: #bfbdbd;
+
   margin-bottom: 20px;
   width: 100%;
   font-size: 20px;
@@ -15,13 +15,13 @@
   border-radius: 10px;
 }
 
-.single-experience:hover{
-    transform:scale(1,1.1);
+.single-experience:hover {
+  transform: scale(1, 1.1);
 }
 
 .single-experience ul li {
   margin-bottom: 5px;
-  font-family: "Itim", cursive;
+  font-family: "Open Sans Hebrew", sans-serif;
   font-size: 16px;
 }
 
