@@ -75,6 +75,12 @@ const Footer = () => {
               </li>
 
               <li>
+                <a href="https://leetcode.com/kaleen123/" target="_blank">
+                  <i class="fas fa-code"></i> Leetcode
+                </a>
+              </li>
+
+              <li>
                 <a
                   href="https://www.youtube.com/channel/UCvuJ6UsnBrpLNvbaVITyJFA"
                   target="_blank"
@@ -84,8 +90,8 @@ const Footer = () => {
               </li>
 
               <li>
-                <a href="https://leetcode.com/kaleen123/" target="_blank">
-                  <i class="fas fa-code"></i> Leetcode
+                <a href="https://instagram.com/jay_patel_2410" target="_blank">
+                  <i class="fa-brands fa-instagram"></i> Linktree
                 </a>
               </li>
 
@@ -94,7 +100,6 @@ const Footer = () => {
                   <i class="fa-brands fa-twitter"></i> Twitter
                 </a>
               </li>
-
 
               <li>
                 <a href="https://linktr.ee/thisisJay" target="_blank">
